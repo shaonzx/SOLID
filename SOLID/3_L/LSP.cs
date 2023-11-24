@@ -11,6 +11,7 @@ namespace SOLID._3_L
      *
      * # Objects of a parent class should be able to be replaced with objects of a child class without affecting the program.
      * # Object of child should be able to access the all the methods and properties of the parent class.
+     * # All the base class methods should be applicable for child classes.
      */
 
     public class Customer
